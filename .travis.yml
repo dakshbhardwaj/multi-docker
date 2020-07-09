@@ -21,3 +21,14 @@ after_success:
   - docker push dakshbhardwaj/multi-nginx
   - docker push dakshbhardwaj/multi-server
   - docker push dakshbhardwaj/multi-worker
+  # deploy
+  # provider
+  # region
+  # app
+  # env
+  # bucket_name
+  #bucket_path: docker_multi
+  #on
+  #branh:master
+  #access_key_id
+  #acess_secret_key
